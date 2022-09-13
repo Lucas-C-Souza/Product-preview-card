@@ -37,23 +37,20 @@ h1 {
   
 } 
 
-p {
-  font-family: 'Montserrat', sans-serif;
-  color: hsl(228, 12%, 48%);
-}
-
 .p-text {
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
-  
+  color: hsl(228, 12%, 48%);
 }
 
 #promotion {
+  font-family: 'Fraunces', serif;
   font-size: 40px;
   color: hsl(158, 36%, 37%);
 }
 
 #price {
+  font-family: 'Fraunces', serif;
   text-decoration: line-through;
 }
 
